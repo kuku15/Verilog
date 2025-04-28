@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Apr 22 16:40:29 2025
+# Process ID: 8396
+# Current directory: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/asynchronous_synchronous_reset/asynchronous_synchronous_reset.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/asynchronous_synchronous_reset/asynchronous_synchronous_reset.sim/sim_1/behav/xsim/xsim.dir/asynchronous_synchronous_reset_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/asynchronous_synchronous_reset/asynchronous_synchronous_reset.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/asynchronous_synchronous_reset/asynchronous_synchronous_reset.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Kulsum -notrace
+couldn't read file "F:/Kulsum": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 22 16:40:29 2025...
