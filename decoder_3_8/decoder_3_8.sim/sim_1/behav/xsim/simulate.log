@@ -1,0 +1,12 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	in		out
+0	000	00000001
+10000	001	00000010
+20000	010	00000100
+30000	011	00001000
+40000	100	00010000
+50000	101	00100000
+60000	110	01000000
+70000	111	10000000
+$finish called at time : 80 ns : File "F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/decoder_3_8/decoder_3_8.srcs/sim_1/new/decoder_3_8_tb.v" Line 47

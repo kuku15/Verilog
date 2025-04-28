@@ -1,0 +1,6 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time=0 | a=0 b=0 | NOT=1 AND=0 OR=0 NAND=1 NOR=1 XOR=0 XNOR=1
+Time=20000 | a=0 b=1 | NOT=1 AND=0 OR=1 NAND=1 NOR=0 XOR=1 XNOR=0
+Time=30000 | a=1 b=0 | NOT=0 AND=0 OR=1 NAND=1 NOR=0 XOR=1 XNOR=0
+Time=40000 | a=1 b=1 | NOT=0 AND=1 OR=1 NAND=0 NOR=0 XOR=0 XNOR=1
