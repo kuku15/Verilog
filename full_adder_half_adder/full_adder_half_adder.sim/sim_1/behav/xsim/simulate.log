@@ -1,0 +1,12 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+A B Cin | Sum Cout
+0 0  0  |  0   0
+0 0  1  |  1   0
+0 1  0  |  1   0
+0 1  1  |  0   1
+1 0  0  |  1   0
+1 0  1  |  0   1
+1 1  0  |  0   1
+1 1  1  |  1   1
+$finish called at time : 80 ns : File "F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/full_adder_half_adder/full_adder_half_adder.srcs/sim_1/new/full_adder_half_adder_tb.v" Line 42

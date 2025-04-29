@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Apr 18 16:49:33 2025
+# Process ID: 2440
+# Current directory: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/full_adder_half_adder/full_adder_half_adder.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/full_adder_half_adder/full_adder_half_adder.sim/sim_1/behav/xsim/xsim.dir/full_adder_half_adder_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/full_adder_half_adder/full_adder_half_adder.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/full_adder_half_adder/full_adder_half_adder.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Kulsum -notrace
