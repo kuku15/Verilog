@@ -1,0 +1,7 @@
+Running: xsim.dir/frequency_divider_odd_5_tb_behav/xsimk.exe -simmode gui -wdb frequency_divider_odd_5_tb_behav.wdb -simrunnum 0 -socket 3456
+Design successfully loaded
+Design Loading Memory Usage: 6484 KB (Peak: 6484 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 7188 KB (Peak: 7188 KB)
+Simulation CPU Usage: 77 ms

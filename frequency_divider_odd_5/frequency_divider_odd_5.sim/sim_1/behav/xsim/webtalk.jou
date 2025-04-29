@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Apr 22 16:15:53 2025
+# Process ID: 1896
+# Current directory: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/frequency_divider_odd_5/frequency_divider_odd_5.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/frequency_divider_odd_5/frequency_divider_odd_5.sim/sim_1/behav/xsim/xsim.dir/frequency_divider_odd_5_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/frequency_divider_odd_5/frequency_divider_odd_5.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/100DaysRTL/frequency_divider_odd_5/frequency_divider_odd_5.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Kulsum -notrace
