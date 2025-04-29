@@ -1,0 +1,10 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	Data		Parity	Error
+0	00000000	0	0
+10000	00000001	1	0
+20000	10101010	0	0
+30000	00000001	0	1
+40000	10101010	1	1
+50000	11111111	1	1
+$finish called at time : 60 ns : File "F:/Kulsum General Drive E/TuDresden/Semester Winter 2022/VLSI/VLSI Lab/parity_checker/parity_checker.srcs/sim_1/new/even_parity_checker_tb.v" Line 46
